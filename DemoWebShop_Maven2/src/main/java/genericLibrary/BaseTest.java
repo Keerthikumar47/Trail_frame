@@ -17,7 +17,9 @@ import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 public class BaseTest {
-	
+	///
+	//new changes
+	//
 	Data_Utility data=new Data_Utility();
 	 public CommonUtility cu=new CommonUtility();
 	public WebDriver driver;
